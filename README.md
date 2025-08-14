@@ -39,6 +39,3 @@ Follow the prompts to authenticate and export messages.
 
 ## Notes
 - Do not share your API credentials or session files.
-
-## License
-MIT License
