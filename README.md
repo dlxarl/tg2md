@@ -24,7 +24,7 @@ A simple Python tool to export messages from Telegram to Markdown format.
    ```
 3. Install dependencies:
    ```sh
-   pip install telethon
+   pip install -r requirements.txt
    ```
 4. Set up your Telegram API credentials:
    - Run the script. On first launch, you will be prompted for your API ID and API Hash (get them at https://my.telegram.org/auth).
